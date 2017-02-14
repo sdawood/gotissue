@@ -1,0 +1,15 @@
+* JSON fields picking, transformation, streaming, local and client/server mode
+  * current art
+    * jsonpath (superjsonpath)
+    * Falcor?
+    * Qraphql?
+    * ... with(Rx)
+
+* Use schema to alidate REST req.body
+  * current art
+    * Mongoose
+    * Joi
+    * JSON Schemas
+    
+* Webcomponent declarative data requirement
+  * ... above
